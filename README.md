@@ -11,7 +11,7 @@
 - [𐀴 树](#𐀴-树)
     - 遍历
     - 构造
-    - 路径 | 深度 | 翻转 (Tree DP)
+    - 路径 | 深度 | 翻转 (Tree DP问题)
     - 二叉搜索树
     - 前缀树
     - 线段树
@@ -129,7 +129,7 @@
 ###### 困难
 - [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 
-#### 路径 | 深度 | 翻转
+#### 路径 | 深度 | 翻转 (Tree DP问题)
 
 ###### 简单
 
